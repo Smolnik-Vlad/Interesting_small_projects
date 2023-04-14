@@ -1,8 +1,14 @@
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 7d68e88 (just 2 proj: MVC and game asteroids)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
 # C extensions
 *.so
 
@@ -127,3 +133,25 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+=======
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDEs and editors
+.idea/
+.vscode/
+*.pyc
+
+# Logs
+*.log
+*.txt
+
+# Other
+venv/
+.DS_Store
+
+xml_fiels/
+>>>>>>> 7d68e88 (just 2 proj: MVC and game asteroids)
